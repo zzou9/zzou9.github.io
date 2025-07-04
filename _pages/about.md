@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.brown.edu/'>Brown University</a>. Providence, RI. 
+subtitle: <a href='https://www.brown.edu/'>Brown University</a>. Providence, RI. United States of America.
 
 profile:
   align: right
