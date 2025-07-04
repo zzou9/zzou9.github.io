@@ -265,8 +265,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zou]
+  first_name: [Zhengyu]
 
   style: apa
   locale: en
