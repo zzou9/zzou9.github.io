@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: activities
+title: Activities
 description: Teaching experiences, seminar talks, etc. 
 nav: true
 nav_order: 4
