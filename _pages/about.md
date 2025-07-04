@@ -27,4 +27,4 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Byron, a senior at [Brown University](https://www.brown.edu/) studying Mathematics and Computer Science. My undergraduate research interest lie at the intersection of geometry, topology, dynamics, and combinatorics.
+Hi! I'm Byron, a senior at [Brown University](https://www.brown.edu/) studying Mathematics and Computer Science. My undergraduate research interests lie at the intersection of geometry, topology, dynamics, and combinatorics.
