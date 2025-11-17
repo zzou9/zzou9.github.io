@@ -27,4 +27,6 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Byron, a senior at [Brown University](https://www.brown.edu/) studying Mathematics and Computer Science. My research interests lie at the intersection of geometry, topology, moduli spaces, and dynamical systems.
+Hi! I'm Byron, a senior at [Brown University](https://www.brown.edu/) studying Mathematics and Computer Science. My research interests lie at the intersection of geometry, topology, moduli spaces, and dynamical systems. During my spare time, I like running, playing drums, and eating good food. 
+
+Check out my undergraduate research projects on [geometry-inspired dynamical systems](https://github.com/zzou9/pentagram-map) and [isometric polyhedral embeddings of hyperbolic surfaces](https://github.com/zzou9/hyperbolic-origami)!
