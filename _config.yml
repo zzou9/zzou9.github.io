@@ -9,7 +9,9 @@ last_name: Zou
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Zhengyu (Byron) Zou, senior at Brown University studying Mathematics and Computer Science. Research interests in geometry, topology, moduli spaces, and dynamical systems.
+  Personal website of Zhengyu (Byron) Zou, a mathematics PhD student
+  at Yale University. Research interests include geometry, topology,
+  and dynamical systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -206,7 +208,6 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
@@ -363,7 +364,7 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
-    - ".gif"
+    # - ".gif"
   output_formats:
     webp: "-quality 85"
 

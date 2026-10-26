@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.brown.edu/'>Brown University</a>. Providence, RI. United States of America.
+subtitle: <a href='https://math.yale.edu/'>Yale University Department of Mathematics</a>. New Haven, CT. 
 
 profile:
   align: right
@@ -27,6 +27,6 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Byron, an undergraduate senior at [Brown University](https://www.brown.edu/) studying Mathematics and Computer Science. My research interests lie at the intersection of geometry, topology, and dynamical systems. During my spare time, I like running, playing drums, and eating good food. 
+Hi! I'm Byron, a first-year PhD student in the Department of Mathematics at Yale University. I earned my bachelor's degree in Mathematics and Applied Mathematics–Computer Science from Brown University, where I was advised by [Caroline Klivans](https://www.dam.brown.edu/people/cklivans/), [Richard Schwartz](https://vivo.brown.edu/display/reschwar), and [Bena Tshishiku](https://bena-tshishiku.github.io/).
 
-Check out my undergraduate research projects on [pentagram maps](https://github.com/zzou9/pentagram-map) and [hyperbolic origami surfaces](https://github.com/zzou9/hyperbolic-origami)!
+My research interests lie at the intersection of geometry, topology, and dynamical systems. In my spare time, I enjoy running, playing the drums, traveling, cooking, and eating good food.
