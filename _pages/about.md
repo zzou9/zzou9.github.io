@@ -29,4 +29,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Byron, a first-year PhD student in the Department of Mathematics at Yale University. I earned my bachelor's degree in Mathematics and Applied Mathematics–Computer Science from Brown University, where I was advised by [Caroline Klivans](https://www.dam.brown.edu/people/cklivans/), [Richard Schwartz](https://vivo.brown.edu/display/reschwar), and [Bena Tshishiku](https://bena-tshishiku.github.io/).
 
-My research interests lie at the intersection of geometry, topology, and dynamical systems. In my spare time, I enjoy running, playing the drums, traveling, cooking, and eating good food.
+My research interests lie at the intersection of geometry, topology, and dynamical systems. Outside of math, I enjoy running, playing the drums, traveling, cooking, and eating good food.
